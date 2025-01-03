@@ -5,13 +5,13 @@ title: Privacy Policy
 
 # Privacy Policy
 
-_Last updated: [Insert Date]_
+_Last updated: 1/3/2025_
 
-[Your Company/App Name] (“we”, “our”, or “us”) respects your privacy. This privacy policy explains how we collect, use, and protect your information.
+Callide LLC (“we”, “our”, or “us”) respects your privacy. This privacy policy explains how we collect, use, and protect your information.
 
 ## Information We Collect
 
-- **Personal Information:** Name, email address (if applicable).
+- **Personal Information:** Name, email address.
 - **Usage Data:** App usage statistics, crash logs, and other diagnostic data.
 
 ## How We Use Your Information
@@ -45,4 +45,4 @@ We may update this privacy policy from time to time. Changes will be posted on t
 
 If you have any questions about this privacy policy, contact us at:
 
-- **Email:** [your email address]
+- **Email:** nsmarkel@aol.com
